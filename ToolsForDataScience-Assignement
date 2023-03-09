@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Pyolite",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# My Jupyter Notebook on Skills Network Labs",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Apoorva N** </br> SBA on a career break",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*I am interested in data science because I'm a data enthusiast who likes analyzing data and uncovering insights that help in decision making*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### My below code is a simple addition of all the fingers in my body",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "5 + 5 ",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "execution_count": 3,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "10"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "--- \n\n  * Bulleted List\n  \n~~Strikehtrough~~\n\nImage of Yin and Yan: ![alt text](https://media.licdn.com/dms/image/C5112AQHSPV6fl-Yv2A/article-inline_image-shrink_1500_2232/0/1567669531656?e=1683763200&v=beta&t=eIN5hpFzfsSL20KF3hyfyxcT3GGt7J48tBp9QsQJGek \"Symbolizes duality\")",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
